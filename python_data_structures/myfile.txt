@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Hello, this is a text file
 this is the second line
 this is the third line
+=======
+Hello, this is a text file
+this is the second line
+this is the third line
+>>>>>>> 41be192259c4370b6d3bc3738b535bce06f882c6
